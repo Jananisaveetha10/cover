@@ -47,7 +47,7 @@ Publish the website in the LocalHost.
             margin-right: auto;
             padding: 20px;
             font-family: ' Arial, sans-serif';
-            background-image:url("WhatsApp Image 2024-11-29 at 18.40.24_457e7b6d.jpg");
+            background-image:url("OIP.jpg");
             background-size: cover;
         }
             
@@ -122,19 +122,23 @@ Publish the website in the LocalHost.
         <body>
         <div class="bookpage">
             <div class="insight">
-                CSE
+                FWAD
             </div>
             <div class="hrstyle">
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1>INTRODUCTION TO CRYPTOGRAPHY</h1></div>
+                <h1>DEVELOPMENT OF WEB</h1></div>
             <div class="subtitle">
-                 books for beginners
+                 BASIC OF WEB
             </div>
             <div class="subtitle">
-                 Top seller of 2024
+                 top dealers of 2024
             </div>
+            <div class="mypic">
+                <img src="WhatsApp Image 2024-12-07 at 23.32.04_4cfaf07d.jpg" width="120" height="100" >
+            </div>
+            
 
             
             <div class="id">
@@ -143,11 +147,12 @@ Publish the website in the LocalHost.
             <div class="author">
                <p><b>JANANI S</b></p>
             </div>
+            <div>
             <div class="pub">
                 SEC
             </div>
             <div class="ed">
-                <b>SPECIAL EDITION</b>
+                <b>EXCLUSIVE EDITION</b>
             </div>
         </div>
         </body>
@@ -158,6 +163,6 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-12-07 215343.png>)
+![alt text](<Screenshot 2024-12-07 233920.png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
